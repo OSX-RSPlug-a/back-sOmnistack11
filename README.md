@@ -17,14 +17,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Run the commands on root folder:
 
-   npm i (to push and install all dependencies)
+    npm i (to push and install all dependencies)
 
 
 To start project:
 
-   npm start
+    npm start
 
-   npm run dev
+    npm run dev
 
    localhost:3333
    
