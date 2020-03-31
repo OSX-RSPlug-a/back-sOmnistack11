@@ -5,9 +5,14 @@ Aplicação dos aprendizados da semana Omnistack 11.0
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-   - React;
-   - Mongodb;
-   - Node.js (on backend);
+   - Nodejs;
+   - celebrate;
+   - cors;
+   - cross-env;
+   - express;
+   - helmet;
+   - knex;
+   - sqlite3;
 
 
 Run the commands on root folder:
@@ -19,4 +24,9 @@ To start project:
 
    npm start
 
-   link: localhost:3000
+   npm run dev
+
+   localhost:3333
+   
+   
+   
